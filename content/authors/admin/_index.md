@@ -40,39 +40,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ""
-        percent: 80
-        icon: python
+      - name: R
+        description: Basic
+        percent: 30
+        icon: r-project
         icon_pack: fab
-      - name: Data Science
+      - name: STATA, SPSS
         description: ""
-        percent: 100
+        percent: 50
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ""
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: Hiking
-        description: ""
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ""
+      - name: Spanish
+        description: Reading Proficiency
         percent: 80
-        icon: camera-retro
+        icon: scroll
         icon_pack: fas
 
 # Social/Academic Networking
