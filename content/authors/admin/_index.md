@@ -38,11 +38,12 @@ education:
       institution: Maastricht University
       year: 2018
 skills:
-  -name:
-    - name: Basic
-      icon: r-project
-      icon_pack: fab
-      name: R
+  - name: Technical
+    items:
+     - name: Basic
+        icon: r-project
+        icon_pack: fab
+        name: R
     - name: Intermediate
       icon: chart-line
       icon_pack: fas
