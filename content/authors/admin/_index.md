@@ -42,7 +42,7 @@ skills:
   - name: R
     description: Basic
     icon: r-project
-    icon_pack: fab
+    icon_pack: fas
   - name: STATA, SPSS
     description: Intermediate
     icon: chart-line
