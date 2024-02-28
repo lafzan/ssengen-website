@@ -38,16 +38,16 @@ education:
       institution: Maastricht University
       year: 2018
 skills:
-  name:
-    - description: Basic
+  -name:
+    - name: Basic
       icon: r-project
       icon_pack: fab
       name: R
-    - description: Intermediate
+    - name: Intermediate
       icon: chart-line
       icon_pack: fas
       name: STATA, SPSS
-    - description: Reading Proficiency
+    - name: Reading Proficiency
       icon: scroll
       icon_pack: fas
       name: Spanish
