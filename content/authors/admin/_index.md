@@ -37,22 +37,21 @@ education:
     - course: BSc in Economics & Business Economis
       institution: Maastricht University
       year: 2018
+
 skills:
-  - name: R
+  - name: ""
     items:
-      - name:
+      - name: R
         description: Basic
         icon: r-project
         icon_pack: fab
-  - name: STATA, SPSS
     items:
-      - name:
+      - name: STATA, SPSS
         description: Intermediate
         icon: chart-line
         icon_pack: fas
-  - name: Spanish
     items:
-      - name:
+      - name: Spanish
         description: Reading Proficiency
         icon: scroll
         icon_pack: fas
