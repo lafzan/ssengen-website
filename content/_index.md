@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please
+        Please send email to:
       # Contact (add or remove contact options as necessary)
       email: esengen.1@osu.edu
   #    phone: -
