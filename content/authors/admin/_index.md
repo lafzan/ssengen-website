@@ -37,25 +37,25 @@ education:
     - course: BSc in Economics & Business Economis
       institution: Maastricht University
       year: 2018
-title: Skills
-subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - description: Basic
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: Intermediate
-    icon: chart-line
-    icon_pack: fas
-    name: STATA, SPSS
-  - description: Reading Proficiency
-    icon: scroll  
-    icon_pack: fas
-    name: Spanish
+skills:
+  - name: R
+    items:
+      - name:
+        description: Basic
+        icon: r-project
+        icon_pack: fab
+  - name: STATA, SPSS
+    items:
+      - name:
+        description: Intermediate
+        icon: chart-line
+        icon_pack: fas
+  - name: Spanish
+    items:
+      - name:
+        description: Reading Proficiency
+        icon: scroll
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
