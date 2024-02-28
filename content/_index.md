@@ -43,29 +43,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
-    id: skills
     content:
       title: Skills
-        subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-          feature:
-          - description: Basic
-            icon: r-project
-            icon_pack: fab
-            name: R
-          - description: Intermediate
-            icon: chart-line
-            icon_pack: fas
-            name: STATA, SPSS
-          - description: Reading Proficiency
-            icon: scroll  
-            icon_pack: fas
-            name: Spanish
+      text: ""
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
     design:
-      columns: "3"
+      columns: "1"
   ## - block: experience
   ##   content:
   ##     title: Experience
