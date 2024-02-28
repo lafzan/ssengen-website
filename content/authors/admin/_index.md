@@ -37,7 +37,20 @@ education:
     - course: BSc in Economics & Business Economis
       institution: Maastricht University
       year: 2018
-
+skills:
+  name:
+    - description: Basic
+      icon: r-project
+      icon_pack: fab
+      name: R
+    - description: Intermediate
+      icon: chart-line
+      icon_pack: fas
+      name: STATA, SPSS
+    - description: Reading Proficiency
+      icon: scroll
+      icon_pack: fas
+      name: Spanish
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
