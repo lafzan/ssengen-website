@@ -39,23 +39,42 @@ education:
       year: 2018
 
 skills:
-  - name: ""
+  - name: Technical
     items:
-      - name: R
-        description: Basic
-        icon: r-project
+      - name: Python
+        description: ""
+        percent: 80
+        icon: python
         icon_pack: fab
-    items:
-      - name: STATA, SPSS
-        description: Intermediate
+      - name: Data Science
+        description: ""
+        percent: 100
         icon: chart-line
         icon_pack: fas
-    items:
-      - name: Spanish
-        description: Reading Proficiency
-        icon: scroll
+      - name: SQL
+        description: ""
+        percent: 40
+        icon: database
         icon_pack: fas
-
+  - name: Hobbies
+    color: "#eeac02"
+    color_border: "#f0bf23"
+    items:
+      - name: Hiking
+        description: ""
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ""
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ""
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
