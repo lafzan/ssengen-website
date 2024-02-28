@@ -39,20 +39,18 @@ education:
       year: 2018
 
 skills:
-  - name:
-    items:
-      - name: R
-        description: Basic
-        icon: r-project
-        icon_pack: fab
-      - name: STATA, SPSS
-        description: Intermediate
-        icon: chart-line
-        icon_pack: fas
-      - name: Spanish
-        description: Reading Proficiency
-        icon: scroll
-        icon_pack: fas
+  - name: R
+    description: Basic
+    icon: r-project
+    icon_pack: fab
+  - name: STATA, SPSS
+    description: Intermediate
+    icon: chart-line
+    icon_pack: fas
+  - name: Spanish
+    description: Reading Proficiency
+    icon: scroll
+    icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
